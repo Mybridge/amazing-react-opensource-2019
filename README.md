@@ -66,7 +66,7 @@ B) [React Native: Build iOS and Android app from scratch with React Native and R
 * [Smooth-ui: React UI library based on styled-components ★1065](https://github.com/smooth-code/smooth-ui) <br>
 * [React-notifications-component: Highly configurable and easy to use React Component to notify your users! ★440](https://github.com/teodosii/react-notifications-component) <br>
 * [Gestalt: A set of React UI components open sourced by Pinterest ★2919](https://github.com/pinterest/gestalt) <br>
-* [antD-design: A react.js library which can be really easy for a beginner.](https://github.com/ant-design/ant-design) <br>
+* [ant-design: A react.js library which can be really easy for a beginner.](https://github.com/ant-design/ant-design) <br>
 
 #### App
 * [Spectrum: Simple, powerful online communities. Built with Node and React.js ★5903](https://github.com/withspectrum/spectrum) <br>
