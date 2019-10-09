@@ -86,3 +86,6 @@ B) [React Native: Build iOS and Android app from scratch with React Native and R
 * [Crate: A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL ★1103](https://github.com/atulmy/crate) <br>
 * [React-slack-clone: Complete chat application, built with Chatkit ★931](https://github.com/pusher/react-slack-clone) <br>
 * [React-reduction: React Reduction: Free Admin Template Built with React and Bootstrap4 ★603](https://github.com/reduction-admin/react-reduction) <br>
+
+#### Boilerplates
+* [react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices ★23709](https://github.com/react-boilerplate/react-boilerplate) <br>
